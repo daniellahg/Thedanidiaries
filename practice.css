@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+div {
+color: rgb(141, 102, 102);
+background-color: rgba(99, 125, 134, 0.5);
+width: 100%;
+height: 60vh;
+border: 2px solid rgb(68, 134, 11);
+font-size: 12px;
+font-weight: 600;
+font-family: "Roboto", sans-serif;
+
+
+}

@@ -1,0 +1,17 @@
+.container {
+    border: 2px solid grey;
+    padding: 24px;
+
+}
+
+.title {
+    border: 2px solid grey;
+    width: 100%;
+    height: 24px;
+}
+.box {
+    border: 2px solid brown;
+    width: 100px;
+    height: 100px;
+}
+
